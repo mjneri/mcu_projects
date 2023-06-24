@@ -1,0 +1,1 @@
+hexmate r0-1FFF,../../../pic24f-bootloader.X/dist/default/production/pic24f-bootloader.X.production.hex r2000-14FFF,../../dist/default/production/pic24-dhtDisplay.X.production.hex r15000-FFFFFFFF,../../../pic24f-bootloader.X/dist/default/production/pic24f-bootloader.X.production.hex -O../../dist/default/production/combined.production.hex
