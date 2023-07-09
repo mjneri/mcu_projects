@@ -25,7 +25,7 @@ int main(void)
 {
     // Pin Configuration
     // NOTE: LED_BUILTIN is at Pin PB5. See schematic at:
-    // https://www.arduino.cc/en/uploads/Main/arduino-uno-smd-schematic.pdf
+    // https://www.arduino.cc/en/uploads/Main/Arduino_Nano-Rev3.2-SCH.pdf
     DDRB = (1 << DDB5); // Set PB5 as output
     PORTB = 0x00;       // Set PORTB as 0
     
